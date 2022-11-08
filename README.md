@@ -3,6 +3,11 @@
 * At the moment I'm a student of Yandex.Practicum.
 * I like to give apps and websites a beautiful and functional look.
 * I want to get modern professional coding skills and implement interesting ideas.
+
+Links to my profile:
+  * [__LinkedIn__](https://linkedin.com/in/влад-карташов-791651256);
+  * [__HeadHunter__](https://hh.ru/resume/0c888947ff0b60fa1b0039ed1f715368543973);
+  
 ___
 ## My stack:
 
